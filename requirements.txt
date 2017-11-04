@@ -1,0 +1,8 @@
+numpy
+ffmpeg-python
+matplotlib
+jupyter
+keras
+tensorflow
+pandas
+pydub
